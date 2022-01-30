@@ -1,4 +1,4 @@
-### Hello, World!
+<h1>Hello, World!</h1>
 
 My name is Walter and I'm from Brazil. I love to build websites and solve problems using my programming skills. I'm currently working on my portfolio website.
 
@@ -11,4 +11,5 @@ Some technologies that I use:
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
